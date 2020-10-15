@@ -1,7 +1,7 @@
 name: icap-csharp
 env:
-  SONAR_ORG: Augeos
-  SONAR_PROJECT: icap-csharp
+  SONAR_ORG: augeos
+  SONAR_PROJECT: AugeosAI_icap-csharp
 on:
   push:
     branches: '*'
